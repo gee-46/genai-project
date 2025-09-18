@@ -1,0 +1,3 @@
+- [ ] Remove RecommendationSection import from Dashboard.tsx
+- [ ] Remove RecommendationSection JSX usage from Dashboard.tsx
+- [ ] Verify no unused imports or props related to recommendations
