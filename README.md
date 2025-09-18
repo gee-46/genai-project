@@ -14,12 +14,6 @@ It helps students and young adults overcome stigma, track moods, practice mindfu
 - Database: Firestore (encrypted, anonymized)
 - AI/ML: Vertex AI, Translation API, Natural Language API
 - Security: End-to-end encryption, GDPR & IT Act compliant
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/mannmitra-ai.git
-   cd mannmitra-ai
 
 Here are some core features of **MannMitra** in action:
 
@@ -53,6 +47,24 @@ Supports **multilingual UI** — for example, users can switch between **English
 <img width="1892" height="906" alt="Screenshot 2025-09-18 125001" src="https://github.com/user-attachments/assets/9cfcf1fc-125c-4527-b886-9de069c9f952" />
 
 
+
+## 🚀 Getting Started
+
+Follow these steps to download and run MannMitra locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/<your-username>/mannmitra-ai.git
+   cd mannmitra-ai
+2. **Installing dependencies**
+    ```bash
+    npm install
+3. **Start the development server**
+    ```bash
+    npm run dev
+4. **Open your browser and go to:**
+   ```arduino
+   http://localhost:3000
 
 
 
