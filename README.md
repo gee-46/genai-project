@@ -1,8 +1,8 @@
-# MannMitra 🌸
+# MannMitra 
 _Your AI-powered friend for youth mental wellness in India._
 MannMitra is a confidential, AI-powered companion built on Google Cloud Generative AI.  
 It helps students and young adults overcome stigma, track moods, practice mindfulness, and access crisis support — all in a culturally sensitive, stigma-free, and gamified way.
-## ✨ Features
+##  Features
 - 🤖 **Empathetic AI Chat** – multilingual, youth-friendly conversations  
 - 📅 **Mood Tracker Calendar** – save moods date-wise, visualize trends  
 - 🧘 **Mindfulness Tools** – breathing exercises, yoga nidra, affirmations  
