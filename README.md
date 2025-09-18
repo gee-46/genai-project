@@ -7,7 +7,6 @@ It helps students and young adults overcome stigma, track moods, practice mindfu
 - 📅 **Mood Tracker Calendar** – save moods date-wise, visualize trends  
 - 🧘 **Mindfulness Tools** – breathing exercises, yoga nidra, affirmations  
 - 🚨 **Crisis Support** – automatic distress detection + helpline integration  
-- 🎮 **Gamified Wellness** – streaks, badges, and peer challenges  
 - 🌍 **Cultural Comfort Mode** – regional proverbs, shayari, folk music therapy
 ## 🛠 Tech Stack
 - Frontend: React / Flutter
