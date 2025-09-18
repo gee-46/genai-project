@@ -46,6 +46,14 @@ Builds habits of reflection, calmness, and resilience.
 <img width="1873" height="895" alt="Screenshot 2025-09-17 145557" src="https://github.com/user-attachments/assets/41082d3d-d328-4abd-99d0-207300bfb460" />
 
 
+### 5. 📊 Dashboard with Multilanguage Support (English & Hindi)
+A personalized dashboard where users can see their mood trends, achievements, and wellness streaks.  
+Supports **multilingual UI** — for example, users can switch between **English** and **Hindi** instantly, making the app more inclusive and culturally relevant.  
+<img width="1889" height="901" alt="Screenshot 2025-09-18 124948" src="https://github.com/user-attachments/assets/b79f5e71-492c-4b7d-8dbc-c17a960894cd" />
+<img width="1892" height="906" alt="Screenshot 2025-09-18 125001" src="https://github.com/user-attachments/assets/9cfcf1fc-125c-4527-b886-9de069c9f952" />
+
+
+
 
 
 
